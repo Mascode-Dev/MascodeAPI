@@ -6,7 +6,7 @@ import champion as ch
 import item as it
 
 #Formation de la requete principale
-api_key='RGAPI-2364154d-a020-48c6-a539-07dbde235019'
+api_key='API_KEY'
 nametmp=input("Entrer un pseudo League of Legends sur le serveur EUW : ")
 name=nametmp.replace(" ","+")
 urltmp="https://euw1.api.riotgames.com/lol/summoner/v4/summoners/by-name/"
