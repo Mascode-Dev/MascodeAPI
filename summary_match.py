@@ -5,7 +5,7 @@ import item as it
 from math import *
 
 
-api_key='RGAPI-cf1084df-1c17-4c00-824f-10bd6025a6bd'
+api_key='API_KEY'
 id_match=input("ID du match sur le serveur EUW : ")
 def summary(id):
     array=[["Numero Équipe","Pseudo","Champion","Poste","KDA","Gold","Damage","Item 1","Item 2","Item 3","Item 4","Item 5","Item 6","Issue"]]    
