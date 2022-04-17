@@ -1,5 +1,5 @@
 # MascodeAPI
-I use the Riot API to scout soloQ matches, to study statistics and propose solutions (pick, ban, strategies) to my team during tournaments.
+I use the Riot API to scout soloQ matches, to study statistics and propose solutions (pick, ban, strategies) to my team during tournaments.  
 I organize tournaments every year, so with the Riot API i can manipulate all the datas from matches, to be able to elect the title of best player, to calculate performance from every player
 
 # Organisation of files
